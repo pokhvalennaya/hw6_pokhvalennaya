@@ -29,3 +29,5 @@ alert(o + " % " + r + " = " + modResult);
 
 let expResult = o ** r;
 alert(o + " ** " + r + " = " + expResult);
+
+console.log("New feature");
